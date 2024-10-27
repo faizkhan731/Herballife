@@ -1,0 +1,33 @@
+ul li h3{
+  font-size: 22px;
+}
+
+.aboutf{
+  background-color: #d6edd3;
+}
+.abouts{
+  background-color: #d6edd3;
+  /* margin-left: 4px; */
+  /* #78ad6f */
+}
+.abouts ul{
+  margin-left: 2rem;
+}
+
+.aboutf p{
+  margin-left: 4px;
+  /* background-color: rgb(107, 90, 90); */
+  font-size: 19px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.aboutf h1{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  /* background-color: bisque; */
+  word-spacing: 4px;
+  /* letter-spacing: 2px; */
+  font-weight: 800;
+}

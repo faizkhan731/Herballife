@@ -1,0 +1,37 @@
+.cont{
+  background-color: rgb(153, 201, 167);
+  max-width: 40rem;
+  margin: 0 auto;
+  padding: 20px;
+  margin-top: 1px;
+}
+.cont h1{
+  text-align: center;
+}
+.cont input{
+  margin-bottom: 3rem;
+}
+.cont textarea{
+  margin-bottom: 3rem;
+}
+.cont lable{
+  display: block;
+  margin-bottom: 15px;
+}
+.cont input,
+.cont textarea {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+.subbtn{
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+.subbtn:hover{
+  background-color: black;
+  color: white;
+}

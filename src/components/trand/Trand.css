@@ -1,0 +1,37 @@
+.tdmain{
+  display: flex;
+}
+
+.hading {
+  /* display: flex; */
+  /* justify-content: center; */
+  padding-top: 1px;
+  font-size: 1.4rem;
+}
+.lines{
+  border: none; 
+  height: 2px; 
+  background-color: #333; 
+  width: 30%;
+}
+.linef{
+  border: none; 
+  height: 2px; 
+  background-color: #333;
+  width: 30%; 
+  /* margin: 20px 20px; Center the line */
+  margin: auto;
+}
+@media screen and (max-width: 590px) {
+  .hading{
+    font-size: 1.2rem;
+  }
+  
+}
+
+@media screen and (max-width: 505px) {
+  .hading{
+    font-size: 0.7rem;
+  }
+  
+}
